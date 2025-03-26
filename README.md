@@ -1,6 +1,6 @@
 ## Taufiq Noorani
 
-Passionate Software Engineer based in London, UK // Open to Work
+Passionate Software Engineer based in London, UK.  // Open to Work
 
 <!--
 **taufiqnoorani/taufiqnoorani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
